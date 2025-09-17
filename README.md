@@ -1,21 +1,16 @@
 ## Hi there 👋
 
 
-Hi, I'm Ele! I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
+Hi, I'm Ele! I'm a web developer passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
 Find me around the web 🌎:
 
-Learning in public on Twitch or monica.dev 📹 ✍🏾
-Tinkering with interactions on Codepen 🏓
-Sharing updates on LinkedIn 💼
-
-const thai = {
+const ele = {
 Technologiess: "web dev" | "her",
   code: [Javascript, Typescript, HTML, CSS]
   tools: [React, Node, Storybook]
 
-
-                      },
+},
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 
