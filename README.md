@@ -15,7 +15,7 @@
 
 ### 🚀 Featured Project: AppTutor
 **An AI-driven ecosystem for Spanish language learning.**
-* **Intelligent Tutoring:** Real-time roleplay and grammar correction using **LangChain** and **OpenAI**.
+* **Intelligent Tutoring:** Real-time roleplay and grammar correction using **LangChain**, **Genkit**, **OpenAI** and **Tavily**.
 * **Neural Audio:** High-fidelity voice synthesis with **ElevenLabs** and **Google Cloud TTS**.
 * **Reliable Infrastructure:** Containerized with **Docker**, secured with **Helmet.js**, and monitored via **Sentry**.
 * [**View Repository**](https://github.com/elecodes/apptutor) | [**Live Demo**](https://tu-link.com)
