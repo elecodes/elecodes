@@ -35,7 +35,8 @@ AI-powered Spanish learning platform delivering engaging, human-like learning ex
 - Neural voice synthesis with ElevenLabs and Google Cloud TTS  
 - Dockerized infrastructure, secured with Helmet.js and monitored via Sentry  
 
-🔗 View Repository | Live Demo
+🔗 View Repository :
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/elecodes/ProfeAI.git)
 
 ---
 
@@ -46,7 +47,9 @@ AI-powered web application for automated analysis and validation of public tende
 - Full-stack architecture with Node.js and modern AI pipelines  
 - Designed to support faster and more reliable document reviews in public procurement  
 
-🔗 View Repository
+🔗 View Repository: 
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/elecodes/TenderCheck-AI.git)
+
 
 ---
 
