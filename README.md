@@ -1,5 +1,7 @@
 Hi 👋, I'm elecodes  
+
 Software Developer & AI Integrator
+
 
 I build full-stack, AI-powered web applications, bridging traditional software engineering with Generative AI.  
 My focus is on clean architecture, scalability, and user-centered design.
@@ -12,6 +14,11 @@ My focus is on clean architecture, scalability, and user-centered design.
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black)
 ![AI](https://img.shields.io/badge/Generative%20AI-LLMs-purple)
 
+--
+
+### 🌱 Currently
+- 🔭 Building **[Diskwise](https://github.com/elecodes/diskwise/tree/exploration/optimization-features)** & exploring **RAG Systems**
+- 💡 Continuously learning, building, and shipping AI-powered applications
 
 ---
 
@@ -35,8 +42,7 @@ AI-powered Spanish learning platform delivering engaging, human-like learning ex
 - Neural voice synthesis with ElevenLabs and Google Cloud TTS  
 - Dockerized infrastructure, secured with Helmet.js and monitored via Sentry  
 
-🔗 View Repository :
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/elecodes/ProfeAI.git)
+🔗 **[Live Demo](https://profeai.onrender.com)** | **[Repository](https://github.com/elecodes/ProfeAI)**
 
 ---
 
@@ -47,22 +53,21 @@ AI-powered web application for automated analysis and validation of public tende
 - Full-stack architecture with Node.js and modern AI pipelines  
 - Designed to support faster and more reliable document reviews in public procurement  
 
-🔗 View Repository: 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/elecodes/TenderCheck-AI.git)
+🔗 **[Live Demo](https://tendercheck-frontend.onrender.com)** | **[Repository](https://github.com/elecodes/TenderCheck-AI)**
 
 
 ---
 
-🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 **Languages & Frameworks**  
-JavaScript · TypeScript · React · Node.js  
+`JavaScript` · `TypeScript` · `React` · `Node.js` · `Express`
 
-**AI & Cloud**  
-OpenAI · LangChain · Genkit · Firebase · Docker  
+**AI & LLMs**  
+`OpenAI` · `LangChain` · `Genkit` · `Tavily` · `ElevenLabs`
 
-**Tools & Quality**  
-Git · Tailwind CSS · Figma · Sentry  
+**Backend & DevOps**  
+`Docker` · `Firebase` · `SQLite` · `Git` · `CI/CD` · `Sentry`
 
 ---
 
@@ -71,9 +76,11 @@ Top languages and activity available below 👇
 
 ---
 
-📫 Connect with me  
+## 📫 Let's Connect
+- 💼 [LinkedIn](www.linkedin.com/in/elena-menéndez-25233b4b)
+- 📧 elecodesdata@gmail.com
+- 🌐 [Portfolio](https://elecodes.dev)
 
-- Email: elecodesdata@gmail.com  
-- LinkedIn: www.linkedin.com/in/elena-menéndez-25233b4b 
-- Portfolio: https://elecodes.dev
+---
+  *Open to opportunities in AI-powered products and human-centered software—where technology solves real problems at scale.*
 
