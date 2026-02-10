@@ -3,8 +3,7 @@ Hi 👋, I'm elecodes
 Software Developer & AI Integrator
 
 
-I build full-stack, AI-powered web applications, bridging traditional software engineering with Generative AI.  
-My focus is on clean architecture, scalability, and user-centered design.
+I build full-stack, AI-powered web applications, with a strong focus on clean architecture, LLM evaluation, observability, and production-ready systems.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
