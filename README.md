@@ -60,13 +60,13 @@ AI-powered web application for automated analysis and validation of public tende
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**  
-`JavaScript` · `TypeScript` · `React` · `Node.js` · `Express`
+`JavaScript` · `TypeScript` · `React` · `Node.js` · `Express` . `Python`
 
 **AI & LLMs**  
 `OpenAI` · `LangChain` · `Genkit` · `Tavily` · `ElevenLabs`
 
 **Backend & DevOps**  
-`Docker` · `Firebase` · `SQLite` · `Git` · `CI/CD` · `Sentry`
+`Docker` · `Firebase` · `SQLite` · `Git` · `CI/CD` · `Sentry` . `SQL`
 
 ---
 
