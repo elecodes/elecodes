@@ -7,6 +7,7 @@ I build full-stack, AI-powered web applications, with a strong focus on clean ar
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=ffdd54)
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![React](https://img.shields.io/badge/React-61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED)
