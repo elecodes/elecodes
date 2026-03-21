@@ -14,12 +14,12 @@ I build full-stack, AI-powered web applications, with a strong focus on clean ar
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black)
 ![AI](https://img.shields.io/badge/Generative%20AI-LLMs-purple)
 
---
+---
 
-### 🌱 Currently
-- 🔭 Building **[Diskwise](https://github.com/elecodes/diskwise/tree/exploration/optimization-features)** & exploring **RAG Systems**
-- 💡 Continuously learning, building, and shipping AI-powered applications
-
+### 🌱 Currently...
+* 🔭 **Building:** Tennis Academy while evolving **TenderCheckAI**.
+* 🚀 **Exploring:** Advanced AI systems through real-world projects like **Golden Years**.
+* 💡 **Philosophy:** Always learning, building, and shipping — improving with every iteration.
 ---
 
 🎓 Education  
