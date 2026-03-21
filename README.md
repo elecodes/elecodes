@@ -15,10 +15,9 @@ I build full-stack, AI-powered web applications, with a strong focus on clean ar
 ![AI](https://img.shields.io/badge/Generative%20AI-LLMs-purple)
 
 ---
-
 ### 🌱 Currently...
-* 🔭 **Building:** Tennis Academy while evolving **TenderCheckAI**.
-* 🚀 **Exploring:** Advanced AI systems through real-world projects like **Golden Years**.
+* 🔭 **Building:** [Tennis Academy](https://github.com/elecodes/tennis_academy) while evolving **TenderCheckAI**.
+* 🚀 **Exploring:** AI systems through real projects like [Golden Years](https://github.com/elecodes/golden-years-assistant).
 * 💡 **Philosophy:** Always learning, building, and shipping — improving with every iteration.
 ---
 
