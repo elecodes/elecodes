@@ -1,6 +1,6 @@
 Hi 👋, I'm elecodes  
 
-Software Developer & AI Integrator
+Full-Stack Software Engineer | AI & LLM Systems
 
 
 I build full-stack, AI-powered web applications, with a strong focus on clean architecture, LLM evaluation, observability, and production-ready systems.
