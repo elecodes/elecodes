@@ -16,9 +16,10 @@ I build full-stack, AI-powered web applications, with a strong focus on clean ar
 
 ---
 ### 🌱 Currently...
-* 🔭 **Building:** [Tennis Academy](https://github.com/elecodes/tennis_academy) while evolving **TenderCheckAI**.
+* 🔭 **Building:** [Tennis Academy](https://github.com/elecodes/tennis_academy) while contributing to Mindfulness Para Todos/ [Mindfulness Almeria]( https://github.com/mindfulnessalmeria/v0-mindfulness-almeria), a digital wellness learning platform.
 * 🚀 **Exploring:** AI systems through real projects like [Golden Years](https://github.com/elecodes/golden-years-assistant).
 * 💡 **Philosophy:** Always learning, building, and shipping — improving with every iteration.
+
 ---
 
 🎓 Education  
