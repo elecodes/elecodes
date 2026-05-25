@@ -79,7 +79,7 @@ Top languages and activity available below 👇
 ## 📫 Let's Connect
 - 💼 [LinkedIn](www.linkedin.com/in/elena-menéndez-25233b4b)
 - 📧 elecodesdata@gmail.com
-- 🌐 [Portfolio](https://elecodes.dev)
+- 🌐 [Portfolio](https://elecodes.online)
 
 ---
   *Open to opportunities in AI-powered products and human-centered software—where technology solves real problems at scale.*
