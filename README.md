@@ -70,10 +70,10 @@ AI-powered Spanish learning platform delivering engaging, human-like learning ex
 `JavaScript` · `TypeScript` · `React` · `Node.js` · `Express` . `Python`
 
 **AI & LLMs**  
-`OpenAI` · `LangChain` · `Genkit` · `Tavily` · `ElevenLabs`
+`OpenAI` · `LangChain` · `Genkit` · `Tavily` · `ElevenLabs` `LangSmith` 
 
 **Backend & DevOps**  
-`Docker` · `Firebase` · `SQLite` · `Git` · `CI/CD` · `Sentry` . `SQL`
+`Docker` · `Firebase` · `SQLite` · `Git` · `CI/CD` · `Sentry` . `SQL` · `PostgreSQL`
 
 ---
 
