@@ -34,18 +34,6 @@ I build full-stack, AI-powered web applications, with a strong focus on clean ar
 
 🚀 Featured Projects
 
-### ProfeAI  
-AI-powered Spanish learning platform delivering engaging, human-like learning experiences.
-
-- Real-time tutoring and grammar correction using LLM workflows  
-- LangChain, Genkit, OpenAI, and Tavily integration  
-- Neural voice synthesis with ElevenLabs and Google Cloud TTS  
-- Dockerized infrastructure, secured with Helmet.js and monitored via Sentry  
-
-🔗 **[Live Demo](https://profeai.onrender.com)** | **[Repository](https://github.com/elecodes/ProfeAI)**
-
----
-
 ### TenderCheckAI  
 AI-powered web application for automated analysis and validation of public tender documentation.
 
@@ -55,8 +43,26 @@ AI-powered web application for automated analysis and validation of public tende
 
 🔗 **[Live Demo](https://tendercheck-frontend.onrender.com)** | **[Repository](https://github.com/elecodes/TenderCheck-AI)**
 
+# 🏆 Recognition
 
+My Master's Final Project was selected by **BIG School** as one of the featured projects.
+
+As part of this recognition, I was invited to record a short interview discussing the project, my learning experience, and my journey in Artificial Intelligence.
+
+### 🎥 Featured Interview
+
+👉 **[Watch the interview](https://thebigschool.com/master-desarrollo-con-ia/)**
 ---
+
+### ProfeAI  
+AI-powered Spanish learning platform delivering engaging, human-like learning experiences.
+
+- Real-time tutoring and grammar correction using LLM workflows  
+- LangChain, Genkit, OpenAI, and Tavily integration  
+- Neural voice synthesis with ElevenLabs and Google Cloud TTS  
+- Dockerized infrastructure, secured with Helmet.js and monitored via Sentry  
+
+🔗 **[Live Demo](https://profeai.onrender.com)** | **[Repository](https://github.com/elecodes/ProfeAI)**
 
 ## 🛠️ Tech Stack
 
