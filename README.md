@@ -66,7 +66,9 @@ AI-powered Spanish learning platform delivering engaging, human-like learning ex
 
 ---
  🚀 **Kiro Spec Studio** — AI-powered multi-agent software specification platform built during the **AWS × Código Facilito Kiro Hackathon**.
-  React • TypeScript • AWS • AI Agents • DevSecOps • [Demo](https://hackathon-kiro-git-main-eles-projects-439745b9.vercel.app) • [Repo](https://github.com/elecodes/hackathon-kiro)
+  React • TypeScript • AWS • AI Agents • DevSecOps 
+  
+  🔗**[Live Demo](https://hackathon-kiro-git-main-eles-projects-439745b9.vercel.app)** | **[Repository](https://github.com/elecodes/hackathon-kiro)**
 
 ---
 
