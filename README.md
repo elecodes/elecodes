@@ -64,6 +64,12 @@ AI-powered Spanish learning platform delivering engaging, human-like learning ex
 
 🔗 **[Live Demo](https://profeai.onrender.com)** | **[Repository](https://github.com/elecodes/ProfeAI)**
 
+---
+ 🚀 **Kiro Spec Studio** — AI-powered multi-agent software specification platform built during the **AWS × Código Facilito Kiro Hackathon**.
+  React • TypeScript • AWS • AI Agents • DevSecOps • [Demo](https://hackathon-kiro-git-main-eles-projects-439745b9.vercel.app) • [Repo](https://github.com/elecodes/hackathon-kiro)
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**  
