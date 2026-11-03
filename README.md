@@ -84,6 +84,18 @@ AI-powered Spanish learning platform delivering engaging, human-like learning ex
 `Docker` · `Firebase` · `SQLite` · `Git` · `CI/CD` · `Sentry` . `SQL` · `PostgreSQL`
 
 ---
+## ☁️ Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/6f946a28-d345-4348-bf92-6ba5798c1d1f/public_url">
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+  </a>
+  <a href="https://www.credly.com/badges/ed072c8e-7fd1-44c5-9283-2368e2cb83ba/public_url">
+    <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner" />
+  </a>
+</p>
+
+---
 
 📊 GitHub Stats  
 Top languages and activity available below 👇
